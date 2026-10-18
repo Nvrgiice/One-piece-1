@@ -34,3 +34,10 @@ CTF{first_name_city_time}
 
 Example: CTF{luffy_osaka_14:34}
 ```
+---
+
+## 💬 Want to Know the Answer?
+
+Think you've solved the mystery? Send me a [message on LinkedIn](https://www.linkedin.com/in/nargice-boudlal/) if you'd like to know the answer!
+
+Good luck, investigators. 🕵️
