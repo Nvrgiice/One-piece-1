@@ -32,5 +32,5 @@ These three pieces of information will allow us to formally establish the wanted
 ```text
 CTF{first_name_city_time}
 
-Example: TDF{luffy_osaka_14:34}
+Example: CTF{luffy_osaka_14:34}
 ```
